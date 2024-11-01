@@ -1,0 +1,7 @@
+.wc-tab p:empty {
+	margin: 0;
+}
+
+.wc-tab h2:first-of-type {
+	margin-top: 0;
+}
